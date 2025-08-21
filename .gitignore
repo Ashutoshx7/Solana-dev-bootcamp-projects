@@ -1,0 +1,13 @@
+# Node / JS
+node_modules/
+package-lock.json
+yarn.lock
+
+# Anchor build artifacts
+target/
+Anchor.toml.lock
+*.so
+*.key
+
+# Environment files
+.env
